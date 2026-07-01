@@ -1,0 +1,77 @@
+nombre: Ignacio Della Canonica
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de LAN inal mbrica Wi-Fi 4:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi 5:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:869:cb:17a:2fad:4420:583e
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:869:cb:bc69:549f:2:5d63
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:869:cb:f141:b8bb:2a40:6866
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::693a:f8a0:87ac:1970%16
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.5
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::46ad:b1ff:fefa:891d%16
+                                       192.168.0.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+Hora: 16:33
+nombre : gustavo gonzalez
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:541:2d47:4aeb:c742:a486:51a6
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:541:2d47:60e6:a322:e105:408
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:541:2d47:600a:30c8:36cd:b85a
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::d35b:87f1:185b:3ae9%11
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.41
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::46ad:b1ff:fe37:a28e%11
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9c54:ce7b:e8b9:3717%18
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 11:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+hora : 16:42
