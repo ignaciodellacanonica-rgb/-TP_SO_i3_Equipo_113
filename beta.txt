@@ -1,0 +1,32 @@
+nombre: Ignacio Della Canonica
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de LAN inal mbrica Wi-Fi 4:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi 5:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:869:cb:17a:2fad:4420:583e
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:869:cb:bc69:549f:2:5d63
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:869:cb:f141:b8bb:2a40:6866
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::693a:f8a0:87ac:1970%16
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.5
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::46ad:b1ff:fefa:891d%16
+                                       192.168.0.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+Hora: 16:33
