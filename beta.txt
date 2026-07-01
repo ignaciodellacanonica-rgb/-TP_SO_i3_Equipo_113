@@ -75,3 +75,27 @@ Adaptador de Ethernet Conexi¢n de red Bluetooth 2:
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
 hora : 16:42
+nombre: ignacio mumm
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::8aa3:ffe1:6cca:95cc%6
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2803:9800:b011:8220:719d:c4e2:8f34:e954
+   Direcci¢n IPv6 temporal. . . . . . : 2803:9800:b011:8220:50fd:9ff9:d5c5:ae68
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::b0c3:7100:1e50:c7e7%12
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.2
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%12
+                                       192.168.100.1
+hora: 16:46
