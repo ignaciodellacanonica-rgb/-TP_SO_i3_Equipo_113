@@ -1,0 +1,46 @@
+Respuestas BETA:
+
+A – El master queda con el datos.txt unificado conteniendo las tres líneas (Gamma, Alfa y Beta), más los tres archivos de CPU (CPUgamma.txt, CPUAlfa.txt, CPUBeta.txt). Es decir, master termina reflejando el trabajo conjunto de los tres integrantes.
+
+B- Sí, pero solo después de hacer git pull sobre la rama de Gamma antes de editar.
+
+C-Los comandos que uso Beta fueron: git fetch origin - git pull origin - git checkout -git merge origin – git push
+
+Respuestas ALFA
+G - git fetch origin
+git checkout Della
+git pull origin Della
+ 
+git branch
+ 
+cat beta.txt
+ 
+echo "nombre: [ignacio mumm]" >> beta.txt
+ipconfig >> beta.txt
+echo "hora: 16:24" >> beta.txt
+ 
+git add beta.txt
+git commit -m "ALFA: modifica beta.txt agregando datos e ipconfig"
+git push origin Della
+
+Respuestas GAMMA
+
+D)D) si, los datos creados  por beta y gamma estan actualizados y cargados correctamente
+
+E)al hacer el merge no podiamos salir hasta que intentamos distintas combinaciones de teclas para guardar el progreso y subirlo exitosamente 
+
+F) git fetch origin
+git checkout Della
+git pull origin Della
+ 
+git branch
+ 
+cat gamma.txt
+ 
+echo "nombre: [gutavo gonzalez ]" >> gamma.txt
+ipconfig >> gamma.txt
+echo "hora: 16:24" >> gamma.txt
+ 
+git add beta.txt
+git commit -m "gamma: modifica beta.txt agregando datos e ipconfig"
+git push origin Della
